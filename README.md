@@ -1,7 +1,7 @@
 ## Tradutor INGLES > PORTUGÊS 
 
 
-![alt text](https://media.discordapp.net/attachments/1030422153348255784/1039623200025362503/proof.png)
+                      ![alt text](https://media.discordapp.net/attachments/1030422153348255784/1039623470318899270/Screenshot_1.png)
 
 + Desenvolvi um programinha simples que permite traduzir qualquer texto em português para inglês, tendo em conta que utilizei a API do Google mas podem alterá-la para a do DeepL ou qualquer outra. 
 
