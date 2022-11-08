@@ -28,7 +28,7 @@ Leiam abaixo para não haverem dúvidas:
 ```
 
 
-### CONFIRA NOSSOS PROJETOS:
+### 💻 | CONFIRA NOSSOS PROJETOS:
 
 ```shell
               Fique um passo à frente de seus amigos, utilize nossos tools para o discord, baixe-os através de 
