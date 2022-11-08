@@ -1,0 +1,26 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "colors": "^1.4.0",
+    "console-title": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.2",
+    "input": "^1.0.1",
+    "line-reader": "^0.4.0",
+    "mysql": "^2.18.1",
+    "requests": "^0.3.0",
+    "translate": "^1.4.1",
+    "xhr2": "^0.2.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
