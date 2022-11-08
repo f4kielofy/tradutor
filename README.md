@@ -31,9 +31,9 @@ Leiam abaixo para não haverem dúvidas:
 ### 💻 | CONFIRA NOSSOS PROJETOS:
 
 ```shell
-              Fique um passo à frente de seus amigos, utilize nossos tools para o discord, baixe-os através de 
-                                           um link abaixo citado "LofyGang".
-                                                       Obrigado.
+      Fique um passo à frente de seus amigos, utilize nossos tools para o discord, baixe-os através de 
+                                   um link abaixo citado "LofyGang".
+                                               Obrigado.
 ```
 
 + [LofyGang](https://lofy.glitch.me/Gang/index.html) -> Our website
