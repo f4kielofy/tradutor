@@ -4,7 +4,8 @@ Desenvolvi um programinha simples que permite traduzir qualquer texto em portugu
 
 Leiam abaixo para não haverem dúvidas:
 
-### ![NodeJS](https://media.discordapp.net/attachments/1030422153348255784/1039565292633866270/oie_transparent_17.png) INSTALAÇÃO DE MÓDULOS DO NPM:
+### <img src="https://media.discordapp.net/attachments/1030422153348255784/1039572345691586570/oie_transparent_18.png" width="30" height="30"> INSTALAÇÃO DE MÓDULOS DO NPM:
+
 
 
 ```shell
